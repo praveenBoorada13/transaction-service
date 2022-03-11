@@ -111,7 +111,6 @@
 				</plugin>
 			</plugins>
 		</pluginManagement>
-		<finalName>transaction-service</finalName>
 	</build>
 	<repositories>
 		<repository>
